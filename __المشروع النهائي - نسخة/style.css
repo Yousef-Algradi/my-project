@@ -1,0 +1,54 @@
+.a  {
+    display: flex;
+    flex-direction: row;
+    padding: 1px ;
+}
+ li{
+    margin-left: 50px;
+ }
+
+ video{
+  margin-right: 150px;
+ }
+ h2{
+    font-style:inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ h3{
+    text-align: center;
+    background-color: aqua;
+
+ }
+
+ .d{
+    text-align: center;
+    
+ }
+ .g{
+    text-align: center;
+    margin-top: 200px;
+    
+
+ }
+ .h :hover{
+    background-color: brown;
+    transition-duration: 2ms;
+    height: 200px;
+
+    
+ }
+ .h {
+    display: flex;
+    margin-right: 200px;
+    flex-direction: row;
+    padding: 10px;
+ }
+ table{
+    margin-right: 300px;
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: 100px;
+ }
+
+  
+
